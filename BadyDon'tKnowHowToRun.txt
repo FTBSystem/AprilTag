@@ -1,0 +1,5 @@
+pip3 install pupil_apriltags --break-system-packages
+
+#check the camera already plug in to computer
+
+python3 AprilTag.py
